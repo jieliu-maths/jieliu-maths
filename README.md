@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://jieliu-maths.github.io">Academic website</a> &nbsp; · &nbsp;
   <a href="https://jieliu-maths.github.io/publications/">Publications</a> &nbsp; · &nbsp;
-  <a href="https://jieliu-maths.github.io/ai-research-workflow/">AI4Math project & demo</a>
+  <a href="https://jieliu-maths.github.io/ai-research-workflow/">AI4Math project & demo</a> &nbsp; · &nbsp;
+  <a href="https://jieliu-maths.github.io/math-paper-editor/">Paper editor demo</a>
 </p>
 
 I am a **Postdoctoral Associate in Mathematics at New York University Abu Dhabi**.
@@ -26,6 +27,15 @@ and human-approved results visible across research sessions.
 [English documentation](https://github.com/jieliu-maths/AI-Research-Workflow#readme) ·
 [中文说明](https://github.com/jieliu-maths/AI-Research-Workflow/blob/main/README.zh-CN.md) ·
 [Experimental AI4S profile](https://github.com/jieliu-maths/AI-Research-Workflow/tree/main/profiles/ai4s)
+
+**[Math Paper Editor](https://github.com/jieliu-maths/math-paper-editor)**  
+Scoped mathematical manuscript review and traceable LaTeX revision, with four modes,
+explicit mathematical findings, and author-controlled proof restructuring.
+
+[Try the interactive usage demo →](https://jieliu-maths.github.io/math-paper-editor/#editor-demo)  
+[English documentation](https://github.com/jieliu-maths/math-paper-editor#readme) ·
+[中文说明](https://github.com/jieliu-maths/math-paper-editor/blob/main/README.zh-CN.md) ·
+[v0.1.0 release](https://github.com/jieliu-maths/math-paper-editor/releases/tag/v0.1.0)
 
 ---
 
