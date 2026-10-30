@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Jie Liu — Mathematics and AI-assisted research</title>
+  <desc id="description">A restrained academic header with a warm paper background and a muted violet rule.</desc>
+  <rect width="1200" height="260" rx="12" fill="#f7f5f8"/>
+  <rect x="55" y="52" width="4" height="153" rx="2" fill="#79518c"/>
+  <text x="88" y="88" fill="#79518c" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="4">MATHEMATICS · OPEN RESEARCH</text>
+  <text x="86" y="155" fill="#292530" font-family="Georgia, 'Times New Roman', serif" font-size="58">Jie Liu</text>
+  <text x="310" y="154" fill="#6b6073" font-family="system-ui, sans-serif" font-size="33">刘杰</text>
+  <text x="88" y="196" fill="#6b6371" font-family="Arial, Helvetica, sans-serif" font-size="18">Partial differential equations · Fluid dynamics · AI4Math</text>
+</svg>
